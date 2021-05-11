@@ -1,0 +1,9 @@
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DrawingFormVB\DrawingFormVB\bin\Debug\DrawingFormVB.exe
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DrawingFormVB\DrawingFormVB\bin\Debug\DrawingFormVB.pdb
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DrawingFormVB\DrawingFormVB\bin\Debug\DrawingFormVB.xml
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DrawingFormVB\DrawingFormVB\obj\x86\Debug\DrawingFormVB.Form1.resources
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DrawingFormVB\DrawingFormVB\obj\x86\Debug\DrawingFormVB.Resources.resources
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DrawingFormVB\DrawingFormVB\obj\x86\Debug\DrawingFormVB.vbproj.GenerateResource.Cache
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DrawingFormVB\DrawingFormVB\obj\x86\Debug\DrawingFormVB.exe
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DrawingFormVB\DrawingFormVB\obj\x86\Debug\DrawingFormVB.xml
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\DrawingFormVB\DrawingFormVB\obj\x86\Debug\DrawingFormVB.pdb
